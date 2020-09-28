@@ -1,2 +1,2 @@
-# RccketPlan
+# RocketSharpenPlan
 Implements prepared Java interview. : )
